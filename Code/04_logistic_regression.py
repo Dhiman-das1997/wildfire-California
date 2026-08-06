@@ -53,7 +53,7 @@ warnings.filterwarnings("ignore", category=FutureWarning)
 # ============================================================
 
 DATA_DIR: Path = Path(
-    r"C:\Users\Dhiman Das\Documents\10 JUNE Final paper"
+    r"wildfire-California\Data"
 )
 
 OUTPUT_DIR: Path = DATA_DIR / "wildfire_outputs-final"
